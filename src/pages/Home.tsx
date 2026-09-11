@@ -54,8 +54,8 @@ button>)}<small>{progress}% complete</small></aside>
 <main>
   <p className="eyebrow">FOUNDATION TRACK</p>
   <h1>Keep learning when the network leaves.</h1>
-   <h2><strong>Name:</strong> ODEDARE MUIZUDEEN</h2>
-  <h2><strong>Matric No.:</strong>2024/1/95079ET</h2>
+   <h2><strong>Name:</strong>AKINTUNDE FAWAZ DOLAPO</h2>
+  <h2><strong>Matric No.:</strong>2024/1/97877ET</h2>
   <p className="lede">
     Save a note, refresh the page, then test the same experience with the
     network turned off.
